@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "EnderEmpire",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Ahmad1234x.aternos.me",
+    "port": 36267,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,9 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Diamod is OP itme",
+        "I loke to play with you",
+        "Your server is nice",
         "I like to play Minecraft!"
       ]
     },
@@ -77,8 +79,8 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": true,
-      "chat": false
+      "disconnect": false,
+      "chat": true,
     }
   },
   "chat": {
